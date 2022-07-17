@@ -1,7 +1,7 @@
-# Trash Game
+# TrashGame
 
 
-**Welcome to our small shitty stupid school project "TrashGame"**
+Welcome to our small shitty stupid school project **"TrashGame"**
 
 This game includes 2 Gamemodes:
 
