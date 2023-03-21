@@ -16,7 +16,7 @@ This game includes 2 Gamemodes:
 TrashGame
 
 **PURPOSE OF PROJECT:**
-To have fun and play a simple game
+FUCKIN SCHOOL
 
 **VERSION:**
 v1
